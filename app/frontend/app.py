@@ -82,7 +82,7 @@ def export_chat_to_pdf(messages: List[Dict[str, Any]]) -> bytes:
                 pdf.multi_cell(0, 4, clean_ref_encoded)
          
         pdf.ln(8)
-    return pdf.output()
+    return bytes(pdf.output())
 
 # --- UTILITY TO ENSURE BACKEND IS RUNNING ---
 def is_port_open(port: int) -> bool:

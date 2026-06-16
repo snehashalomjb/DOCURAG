@@ -1,0 +1,16 @@
+# Caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+
+# Keys & Configs
+.env
+.streamlit/secrets.toml
+
+# Persistent Data (SQLite, FAISS, uploads)
+data/

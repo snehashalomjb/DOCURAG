@@ -1,0 +1,1 @@
+# DOCURAG package initialization

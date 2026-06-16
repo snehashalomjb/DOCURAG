@@ -1,0 +1,1 @@
+# DOCURAG backend initialization

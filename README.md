@@ -33,7 +33,7 @@ DOCURAG is a complete, lightweight, and modern **Retrieval-Augmented Generation 
 - **PDF Extraction:** PyPDF
 - **Vector Index:** FAISS (CPU)
 - **Embeddings:** Hugging Face `sentence-transformers` (`all-MiniLM-L6-v2`)
-- **LLM Reasoning:** Google Gemini API (`gemini-1.5-flash` - Free Tier)
+- **LLM Reasoning:** Google Gemini API (`gemini-2.5-flash` - Free Tier)
 
 ---
 
